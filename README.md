@@ -13,4 +13,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1148-article-views-i/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
