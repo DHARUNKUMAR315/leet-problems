@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
