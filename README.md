@@ -49,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
