@@ -53,8 +53,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0071-simplify-path/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
