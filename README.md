@@ -55,9 +55,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0071-simplify-path/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0071-simplify-path/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
