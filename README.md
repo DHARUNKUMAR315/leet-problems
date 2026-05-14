@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
 | [0748-shortest-completing-word](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0748-shortest-completing-word/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0071-simplify-path/) | Medium |
 | [0748-shortest-completing-word](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0748-shortest-completing-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0917-reverse-only-letters/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
