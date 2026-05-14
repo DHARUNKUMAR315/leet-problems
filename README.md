@@ -20,12 +20,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
 | [0748-shortest-completing-word](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0748-shortest-completing-word/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
 | [0748-shortest-completing-word](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0748-shortest-completing-word/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
