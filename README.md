@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0610-triangle-judgement/) | Easy |
 | [1148-article-views-i](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1148-article-views-i/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
