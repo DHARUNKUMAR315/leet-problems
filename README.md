@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0595-big-countries/) | Easy |
+| [0610-triangle-judgement](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0610-triangle-judgement/) | Easy |
 | [1148-article-views-i](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1148-article-views-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
