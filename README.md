@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0071-simplify-path/) | Medium |
+| [0482-license-key-formatting](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0748-shortest-completing-word](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0748-shortest-completing-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0917-reverse-only-letters/) | Easy |
 | [0929-unique-email-addresses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0929-unique-email-addresses/) | Easy |
