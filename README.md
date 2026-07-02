@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0610-triangle-judgement/) | Easy |
 | [1148-article-views-i](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1148-article-views-i/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1795-rearrange-products-table](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Array
