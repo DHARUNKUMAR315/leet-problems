@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0748-shortest-completing-word](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0748-shortest-completing-word/) | Easy |
 | [0929-unique-email-addresses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0748-shortest-completing-word](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0748-shortest-completing-word/) | Easy |
 | [0929-unique-email-addresses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -70,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0917-reverse-only-letters/) | Easy |
 ## String
