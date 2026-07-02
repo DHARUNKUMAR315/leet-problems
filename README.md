@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
