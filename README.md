@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/0619-biggest-single-number/) | Easy |
 | [1148-article-views-i](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1148-article-views-i/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1795-rearrange-products-table](https://github.com/DHARUNKUMAR315/leet-problems/tree/main/1795-rearrange-products-table/) | Easy |
